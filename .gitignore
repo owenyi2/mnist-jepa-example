@@ -1,0 +1,6 @@
+# Emacs backup files
+*~             # files ending with ~
+\#*\#          # autosave files like #foo#
+.#*            # lock files for remote editing
+
+__pycache__/
